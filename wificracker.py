@@ -27,7 +27,7 @@ def display_banner():
         "                                                                                                                 ",
         "                                                                                                                 ",
         "                                          Author : KALEEMULLAH KHAN                                              ",
-        "                                          GITHUB : https://github.com/kaleemullahkhan                            ",
+        "                                          GITHUB : https://github.com/kaleemullahkhan786                         ",
         "                                                                                                                 ",
         "_________________________________________________________________________________________________________________"
     ]
