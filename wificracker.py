@@ -1,3 +1,5 @@
+# This script is intended for educational purposes only. It should be used responsibly and ethically.
+# This tool simplifies the usage of Hashcat, a password recovery tool. Hashcat is commonly used for security testing and forensic purposes.
 import os
 import subprocess
 import time
